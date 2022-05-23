@@ -1,1 +1,1 @@
-# MAX7219-8x32-Display
+# MAX7219 8x32 Display
