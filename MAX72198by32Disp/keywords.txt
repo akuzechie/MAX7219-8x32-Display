@@ -1,0 +1,20 @@
+###########################################
+# Syntax Coloring Map for MAX7219 Library
+###########################################
+
+###########################################
+# Datatypes (KEYWORD1)
+###########################################
+
+MAX72198by32Disp 	KEYWORD1
+
+###########################################
+# Methods and Functions (KEYWORD2)
+###########################################
+
+Initialize	        KEYWORD2
+Clear	            KEYWORD2
+Number	            KEYWORD2
+Numberdp	        KEYWORD2
+Letter  	        KEYWORD2
+Symbol  	        KEYWORD2
